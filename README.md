@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-![tic-tac-toe](https://ibb.co/tHnp18z)
+![tic-tac-toe](https://i.ibb.co/b6Y5GzF/2022-08-29-17-46-04-Window.png)
 
 Oynamak için demo sitesi: https://fimplereactictactoe.netlify.app/
 
