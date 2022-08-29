@@ -22,9 +22,9 @@ function App() {
       e.target.innerHTML = player;
 
       for (let con of winConditions) {
-        let ticblock1 = document.getElementById(con[0].toString());
-        let ticblock2 = document.getElementById(con[1].toString());
-        let ticblock3 = document.getElementById(con[2].toString());
+        let ticblock1 = document.getElementById(con[0]);
+        let ticblock2 = document.getElementById(con[1]);
+        let ticblock3 = document.getElementById(con[2]);
         if (
           ticblock1.innerHTML === player &&
           ticblock2.innerHTML === player &&
